@@ -1,0 +1,40 @@
+
+
+  .form-title {
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    line-height: 1;
+    color: #1f2f3d;
+    font-weight: 800;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+
+  .form-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  } 
+  
+  .form-content .el-form-item {
+    width: 440px;
+    margin-right: 10px;
+  }
+  
+  .form-content .el-input {
+    width: 250px;
+  }
+  
+  .form-content .el-textarea {
+    width: 250px;
+  }
+  
+  .form-content .el-form-item.form-item--full {
+    width: 100%;
+  }
+  
+  .form-content .form-item-unit--full {
+    width: 696px;
+  }
